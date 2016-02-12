@@ -1,2 +1,2 @@
 # GuessANumber
-An OSX command line application
+An OSX command line application using swift
